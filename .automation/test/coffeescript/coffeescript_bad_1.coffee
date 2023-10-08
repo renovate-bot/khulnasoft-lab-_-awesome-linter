@@ -6,7 +6,7 @@
 #   `mona echo *` - repeats what you say
 #
 # Author:
-#   admiralawkbar@github.com
+#   sulaiman-coder@github.com
 
 ###############################
 # Drop Hammer array of images #
